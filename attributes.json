@@ -1,0 +1,17 @@
+[
+  {
+    "attributeName": "Strength",
+    "attributeRawValue": 34,
+    "attributeTierValue": 3
+  },
+  {
+    "attributeName": "Dexterity",
+    "attributeRawValue": 55,
+    "attributeTierValue": 5
+  },
+  {
+    "attributeName": "Constitution",
+    "attributeRawValue": 44,
+    "attributeTierValue": 4
+  }
+]

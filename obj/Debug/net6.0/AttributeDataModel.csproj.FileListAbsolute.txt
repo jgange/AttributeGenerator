@@ -1,0 +1,15 @@
+C:\Users\jgange\Projects\C#\AttributeDataModel\obj\Debug\net6.0\AttributeDataModel.csproj.AssemblyReference.cache
+C:\Users\jgange\Projects\C#\AttributeDataModel\obj\Debug\net6.0\AttributeDataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgange\Projects\C#\AttributeDataModel\obj\Debug\net6.0\AttributeDataModel.AssemblyInfoInputs.cache
+C:\Users\jgange\Projects\C#\AttributeDataModel\obj\Debug\net6.0\AttributeDataModel.AssemblyInfo.cs
+C:\Users\jgange\Projects\C#\AttributeDataModel\obj\Debug\net6.0\AttributeDataModel.csproj.CoreCompileInputs.cache
+C:\Users\jgange\Projects\C#\AttributeDataModel\bin\Debug\net6.0\AttributeDataModel.exe
+C:\Users\jgange\Projects\C#\AttributeDataModel\bin\Debug\net6.0\AttributeDataModel.deps.json
+C:\Users\jgange\Projects\C#\AttributeDataModel\bin\Debug\net6.0\AttributeDataModel.runtimeconfig.json
+C:\Users\jgange\Projects\C#\AttributeDataModel\bin\Debug\net6.0\AttributeDataModel.dll
+C:\Users\jgange\Projects\C#\AttributeDataModel\bin\Debug\net6.0\ref\AttributeDataModel.dll
+C:\Users\jgange\Projects\C#\AttributeDataModel\bin\Debug\net6.0\AttributeDataModel.pdb
+C:\Users\jgange\Projects\C#\AttributeDataModel\obj\Debug\net6.0\AttributeDataModel.dll
+C:\Users\jgange\Projects\C#\AttributeDataModel\obj\Debug\net6.0\ref\AttributeDataModel.dll
+C:\Users\jgange\Projects\C#\AttributeDataModel\obj\Debug\net6.0\AttributeDataModel.pdb
+C:\Users\jgange\Projects\C#\AttributeDataModel\obj\Debug\net6.0\AttributeDataModel.genruntimeconfig.cache
